@@ -1,0 +1,38 @@
+{
+  "cfg_signature": {
+    "rod_length_m": 3.0,
+    "diffusion": 0.5,
+    "reaction": -1.2,
+    "controller_count": 3,
+    "controller_sigma_m": 0.15,
+    "initial_width_m": 0.3,
+    "initial_amplitude": 0.5,
+    "grid_points": 50,
+    "dt": 0.002,
+    "control_min": -10.0,
+    "control_max": 0.0,
+    "control_delta_max": 3.0,
+    "force_limit": 100.0,
+    "force_delta_max": 30.0,
+    "position_min": 0.0,
+    "position_max": 3.0,
+    "min_separation": 0.6,
+    "mass_kg": 4.0,
+    "damping_per_s": 0.05,
+    "initial_position_1": 0.10000000149011612,
+    "initial_position_2": 1.100000023841858,
+    "initial_position_3": 2.9000000953674316
+  },
+  "baseline_config": {
+    "delay_steps": 5,
+    "energy_ratio": 0.995,
+    "hidden_units": 180,
+    "gamma": 0.25,
+    "training_trajectories": 72,
+    "training_steps": 240,
+    "position_delta_max": 0.03,
+    "seed": 1234
+  },
+  "train_mse": 2.592835864006352,
+  "val_mse": 3.0976294596008005
+}

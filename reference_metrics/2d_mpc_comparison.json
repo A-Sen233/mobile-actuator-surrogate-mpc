@@ -1,0 +1,9 @@
+{
+  "prediction_mode": "surrogate",
+  "mobile_average_mpc_solve_time_s": 0.9081822037696838,
+  "fixed_average_mpc_solve_time_s": 0.8895642161369324,
+  "mobile_final_mean_concentration": 2.679730641830247e-07,
+  "fixed_final_mean_concentration": 0.027656788006424904,
+  "mobile_executed_control_steps": 75,
+  "fixed_executed_control_steps": 75
+}

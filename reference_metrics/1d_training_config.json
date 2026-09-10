@@ -1,0 +1,38 @@
+{
+  "config": {
+    "rod_length_m": 3.0,
+    "diffusion": 0.5,
+    "reaction": -1.2,
+    "controller_count": 3,
+    "controller_sigma_m": 0.15,
+    "initial_constant": 0.26,
+    "initial_width_m": 0.3,
+    "initial_amplitude": 0.5,
+    "temperature_display_scale": 100.0,
+    "grid_points": 50,
+    "dt": 0.002,
+    "control_steps": 240,
+    "control_stride": 1,
+    "prediction_horizon": 10,
+    "max_iter": 12,
+    "control_min": -10.0,
+    "control_max": 0.0,
+    "control_delta_max": 3.0,
+    "force_limit": 100.0,
+    "force_delta_max": 30.0,
+    "position_min": 0.0,
+    "position_max": 3.0,
+    "min_separation": 0.6,
+    "initial_controller_offset_m": 0.2,
+    "mass_kg": 4.0,
+    "damping_per_s": 0.05,
+    "velocity_limit_m_s": null,
+    "training_trajectories": 240,
+    "evaluation_trajectories": 6,
+    "training_seed": 1234
+  },
+  "model_config": {
+    "channels": 32,
+    "kernel_size": 5
+  }
+}

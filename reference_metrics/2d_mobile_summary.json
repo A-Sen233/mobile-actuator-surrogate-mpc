@@ -1,0 +1,11 @@
+{
+  "scenario_label": "Mobile Controllers",
+  "prediction_mode": "surrogate",
+  "controller_mode": "mobile",
+  "executed_control_steps": 75,
+  "elapsed_wall_time_s": 67.24788928031921,
+  "average_mpc_solve_time_s": 0.9081822037696838,
+  "average_mpc_solve_time_ms": 908.1822037696838,
+  "final_mean_concentration": 2.679730641830247e-07,
+  "final_max_concentration": 0.0001405932125635445
+}

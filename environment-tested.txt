@@ -1,0 +1,11 @@
+Package check environment (2026-09-10)
+
+Python: 3.11.14
+NumPy: 2.3.5
+SciPy: 1.17.1
+Matplotlib: 3.10.8
+PyTorch: 2.10.0+cu128
+scikit-learn: 1.8.0
+joblib: 1.5.3
+
+Hardware-dependent CUDA libraries are intentionally not pinned in requirements.txt.

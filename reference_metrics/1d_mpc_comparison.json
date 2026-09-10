@@ -1,0 +1,15 @@
+{
+  "mobile_final_average_temperature": 0.0004486698016989976,
+  "fixed_final_average_temperature": 0.007844803854823112,
+  "svd_rbf_final_average_temperature": 9.507722279522568e-05,
+  "mobile_average_mpc_solve_time_s": 0.21074633300304413,
+  "fixed_average_mpc_solve_time_s": 0.11423741281032562,
+  "svd_rbf_average_mpc_solve_time_s": 0.14181366562843323,
+  "mobile_median_mpc_solve_time_s": 0.11578914523124695,
+  "fixed_median_mpc_solve_time_s": 0.046616651117801666,
+  "svd_rbf_median_mpc_solve_time_s": 0.14110714197158813,
+  "pinn_avg_temp_abs_error_vs_pde": 0.4281865954399109,
+  "svd_avg_temp_abs_error_vs_pde": 7.83926248550415,
+  "pinn_state_rmse_vs_pde": 0.6052965521812439,
+  "svd_state_rmse_vs_pde": 9.551721572875977
+}

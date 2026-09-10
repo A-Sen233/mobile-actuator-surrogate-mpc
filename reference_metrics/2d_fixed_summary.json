@@ -1,0 +1,11 @@
+{
+  "scenario_label": "Fixed Controllers",
+  "prediction_mode": "surrogate",
+  "controller_mode": "fixed",
+  "executed_control_steps": 75,
+  "elapsed_wall_time_s": 65.8695080280304,
+  "average_mpc_solve_time_s": 0.8895642161369324,
+  "average_mpc_solve_time_ms": 889.5642161369324,
+  "final_mean_concentration": 0.027656788006424904,
+  "final_max_concentration": 0.21156944334506989
+}
